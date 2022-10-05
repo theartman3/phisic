@@ -1,0 +1,51 @@
+body{ 
+    background: url(картинки/oblaka-minimalizm-nebo-1920x1200.jpg);
+
+}
+
+header {
+    background-color: rgb(85, 170, 226);
+    height: 5vw;
+    border-radius: 5px;
+    border: 10px;
+    margin: 0px 0px 1vh 0px;
+
+    
+}
+.UNIVERSITY {
+    background-color: #2bd;
+    
+    height: 2.5vw;
+    border-radius: 5px;
+  }
+  
+  ul.UNIVERSITY {
+    display: flex;
+    border-radius: 5px;
+  }
+  
+  .UNIVERSITY li {
+    font: 1vw arial;
+    list-style: none;
+    border-radius: 5px;
+  }
+  
+  .UNIVERSITY li a {
+    text-decoration: none;
+    margin: 2.65em;
+    font-size: 4em;
+    color: #fff;
+    border-radius: 5px;
+  }
+  
+  .BIGONE {
+    font-size: 6em;
+    font-family: Verdana, Helvetica, Arial, sans-serif;  
+  }
+  .zagolovok1 dd { 
+    margin: 50px;
+    font-family: Verdana, Helvetica, Arial, sans-serif; 
+    font-size: 35px;
+    display: flex;
+
+  }
