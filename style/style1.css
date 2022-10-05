@@ -1,6 +1,6 @@
 body{ 
     background: url(картинки/oblaka-minimalizm-nebo-1920x1200.jpg);
-
+    font-family: 'Montserrat';
 }
 
 header {
@@ -48,4 +48,30 @@ header {
     font-size: 35px;
     display: flex;
 
+  }
+
+  .list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .olymp-name {
+    flex-basis: 40%;
+  }
+
+  .olymp-date {
+    flex-basis: 50%;
+  }
+
+  .description {
+    flex-basis: 100%;
+  }
+
+  a {
+    color: inherit;
+  }
+
+  a:hover {
+    color: rgb(233, 125, 243);
   }
